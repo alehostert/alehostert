@@ -1,10 +1,10 @@
-![Capa Infinite](https://i.imgur.com/461ANSE.png)
+![Capa Infinite](https://i.imgur.com/Yi5KhZZ.png)
 
 ---
 
 ## Alexandre S Hostert
 
-> [Site Reliability Engineer](https://www.linkedin.com/in/hostert/) | [Infinite Cloud Computing](https://goinfinite.net)
+> [Site Reliability Engineer](https://www.linkedin.com/in/hostert/) | [Infinite Cloud Computing](https://goinfinite.net) | [Nimbus House](https://nimbus.house)
 
 Systems Administrator since 2004.
 Currently learning how to upgrade myself into Site Reliability Engineering as a way to contribute to the best support team for webhosting in Brazil (soon the world).
