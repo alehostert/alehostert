@@ -1,16 +1,14 @@
-![Capa Infinite](https://i.imgur.com/Yi5KhZZ.png)
+![Capa Infinite](https://i.imgur.com/R5nklbI.png)
 
 ---
 
 ## Alexandre S Hostert
 
-> [DevOps Engineer (SRE)](https://www.linkedin.com/in/hostert/) | [Infinite Cloud Computing](https://goinfinite.net) | [Nimbus House](https://nimbus.house)
+> [Head of Infra](https://www.linkedin.com/in/hostert/) | [Infinite Cloud](https://goinfinite.net) | [Infinite OS](https://github.com/goinfinite/os) | [Infinite Ez](https://github.com/goinfinite/ez)
 
 Systems Administrator since 2004.
 
 20 years of black screen and an SSH connection made me learn a couple of things :)
-
-- ⚡ Fun fact: I liked so much [William's profile page](https://github.com/william-costa) so I had to make my own :)
 
 ---
 
